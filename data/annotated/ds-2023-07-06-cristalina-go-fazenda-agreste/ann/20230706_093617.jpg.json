@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3000,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1418301367,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T10:05:38.593Z",
+            "updatedAt": "2023-09-21T10:06:03.754Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        2880,
+                        1180
+                    ],
+                    [
+                        2941,
+                        1237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418301384,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T10:06:03.437Z",
+            "updatedAt": "2023-09-21T10:06:03.437Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        2045,
+                        1276
+                    ],
+                    [
+                        2079,
+                        1318
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

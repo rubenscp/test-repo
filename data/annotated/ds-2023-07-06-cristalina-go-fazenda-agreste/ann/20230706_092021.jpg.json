@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4000,
+        "width": 3000
+    },
+    "objects": [
+        {
+            "id": 1418087484,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-20T18:13:26.379Z",
+            "updatedAt": "2023-09-20T18:15:00.284Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1419,
+                        1167
+                    ],
+                    [
+                        1449,
+                        1198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418087485,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-20T18:13:33.849Z",
+            "updatedAt": "2023-09-20T18:15:00.284Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1403,
+                        1143
+                    ],
+                    [
+                        1434,
+                        1179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418087489,
+            "classId": 11846352,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-20T18:13:59.043Z",
+            "updatedAt": "2023-09-20T18:15:00.284Z",
+            "tags": [],
+            "classTitle": "Coal",
+            "points": {
+                "exterior": [
+                    [
+                        1680,
+                        1338
+                    ],
+                    [
+                        1736,
+                        1373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418087492,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-20T18:14:41.862Z",
+            "updatedAt": "2023-09-20T18:15:00.284Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        1500,
+                        1820
+                    ],
+                    [
+                        1548,
+                        1858
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418087495,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-20T18:14:59.956Z",
+            "updatedAt": "2023-09-20T18:14:59.956Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        2309,
+                        1762
+                    ],
+                    [
+                        2343,
+                        1811
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

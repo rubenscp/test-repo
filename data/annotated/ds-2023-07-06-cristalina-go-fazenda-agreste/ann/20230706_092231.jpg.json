@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3000,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1418102976,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T01:52:01.810Z",
+            "updatedAt": "2023-09-21T01:52:32.179Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        665,
+                        382
+                    ],
+                    [
+                        719,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418102979,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T01:52:07.295Z",
+            "updatedAt": "2023-09-21T01:52:32.179Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        635,
+                        372
+                    ],
+                    [
+                        684,
+                        416
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418102981,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T01:52:11.320Z",
+            "updatedAt": "2023-09-21T01:52:32.179Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        660,
+                        356
+                    ],
+                    [
+                        687,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418102982,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T01:52:16.774Z",
+            "updatedAt": "2023-09-21T01:52:32.179Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        673,
+                        328
+                    ],
+                    [
+                        710,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418102985,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T01:52:26.422Z",
+            "updatedAt": "2023-09-21T01:52:32.179Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        315
+                    ],
+                    [
+                        667,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418102987,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T01:52:31.874Z",
+            "updatedAt": "2023-09-21T01:52:31.874Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        604,
+                        273
+                    ],
+                    [
+                        667,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

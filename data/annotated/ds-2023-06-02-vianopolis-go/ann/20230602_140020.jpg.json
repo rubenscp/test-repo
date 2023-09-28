@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4000,
+        "width": 1800
+    },
+    "objects": [
+        {
+            "id": 1418443137,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T15:48:05.098Z",
+            "updatedAt": "2023-09-22T13:51:55.323Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        812,
+                        2047
+                    ],
+                    [
+                        852,
+                        2104
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418443139,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T15:48:10.533Z",
+            "updatedAt": "2023-09-22T13:51:55.323Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        721,
+                        2095
+                    ],
+                    [
+                        778,
+                        2140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418818766,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-22T13:51:55.001Z",
+            "updatedAt": "2023-09-22T13:51:55.001Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        1962
+                    ],
+                    [
+                        324,
+                        2001
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

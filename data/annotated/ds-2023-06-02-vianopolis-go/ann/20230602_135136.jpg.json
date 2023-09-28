@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1800,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1407347295,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:35:30.509Z",
+            "updatedAt": "2023-09-08T13:37:02.391Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        2153,
+                        879
+                    ],
+                    [
+                        2310,
+                        1015
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347318,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:36:27.136Z",
+            "updatedAt": "2023-09-22T13:40:54.841Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        2164,
+                        540
+                    ],
+                    [
+                        2293,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347319,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:36:34.759Z",
+            "updatedAt": "2023-09-22T13:41:37.603Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        2352,
+                        345
+                    ],
+                    [
+                        2513,
+                        501
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347334,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:37:02.106Z",
+            "updatedAt": "2023-09-08T13:37:02.106Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        2801,
+                        108
+                    ],
+                    [
+                        2966,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

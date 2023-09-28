@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1800,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1418443393,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T16:01:20.943Z",
+            "updatedAt": "2023-09-21T16:01:28.402Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1792,
+                        639
+                    ],
+                    [
+                        1919,
+                        770
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418443397,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T16:01:28.006Z",
+            "updatedAt": "2023-09-21T16:01:28.006Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1901,
+                        603
+                    ],
+                    [
+                        1985,
+                        693
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

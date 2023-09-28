@@ -1,0 +1,346 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4000,
+        "width": 1800
+    },
+    "objects": [
+        {
+            "id": 1407348197,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:04:52.181Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        1909
+                    ],
+                    [
+                        301,
+                        1948
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407348202,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:05:04.852Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        787,
+                        1969
+                    ],
+                    [
+                        833,
+                        2024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407348206,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:05:11.859Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        702,
+                        2020
+                    ],
+                    [
+                        758,
+                        2067
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407348219,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:05:28.286Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        694,
+                        1872
+                    ],
+                    [
+                        739,
+                        1936
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407348224,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:05:46.727Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        393,
+                        2434
+                    ],
+                    [
+                        468,
+                        2492
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407348241,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:06:31.508Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        1554,
+                        895
+                    ],
+                    [
+                        1621,
+                        951
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407348285,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:07:11.640Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        1552,
+                        1545
+                    ],
+                    [
+                        1603,
+                        1590
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407348326,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:07:23.426Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        1078,
+                        1664
+                    ],
+                    [
+                        1112,
+                        1708
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407348453,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:09:45.022Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        579,
+                        163
+                    ],
+                    [
+                        629,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407348468,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T14:10:23.109Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        6
+                    ],
+                    [
+                        372,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418818813,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-22T13:53:13.947Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1197,
+                        1474
+                    ],
+                    [
+                        1256,
+                        1515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418818817,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-22T13:53:19.288Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1181,
+                        1463
+                    ],
+                    [
+                        1225,
+                        1517
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418818829,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-22T13:53:30.951Z",
+            "updatedAt": "2023-09-22T13:55:29.086Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1216,
+                        1436
+                    ],
+                    [
+                        1262,
+                        1482
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418818921,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-22T13:55:28.708Z",
+            "updatedAt": "2023-09-22T13:55:33.485Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        1045
+                    ],
+                    [
+                        338,
+                        1137
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

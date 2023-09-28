@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3000,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1418300613,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:52:14.272Z",
+            "updatedAt": "2023-09-21T09:52:29.771Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1921,
+                        1722
+                    ],
+                    [
+                        1986,
+                        1783
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418300620,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:52:22.313Z",
+            "updatedAt": "2023-09-21T09:52:29.771Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1944,
+                        1695
+                    ],
+                    [
+                        1992,
+                        1745
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418300625,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:52:29.444Z",
+            "updatedAt": "2023-09-21T09:52:29.444Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1908,
+                        1706
+                    ],
+                    [
+                        1938,
+                        1740
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

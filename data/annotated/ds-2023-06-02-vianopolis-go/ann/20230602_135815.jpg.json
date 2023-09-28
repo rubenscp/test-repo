@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1800,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1407347776,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:53:28.531Z",
+            "updatedAt": "2023-09-21T15:46:24.428Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1934,
+                        504
+                    ],
+                    [
+                        2063,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347781,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:53:37.929Z",
+            "updatedAt": "2023-09-08T13:54:06.988Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        393,
+                        848
+                    ],
+                    [
+                        607,
+                        1002
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347788,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:53:56.378Z",
+            "updatedAt": "2023-09-08T13:54:06.988Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        3041,
+                        1604
+                    ],
+                    [
+                        3176,
+                        1751
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347795,
+            "classId": 11846352,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:54:06.693Z",
+            "updatedAt": "2023-09-18T00:37:15.560Z",
+            "tags": [],
+            "classTitle": "Coal",
+            "points": {
+                "exterior": [
+                    [
+                        961,
+                        770
+                    ],
+                    [
+                        1262,
+                        875
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3000,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1418301075,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:59:35.403Z",
+            "updatedAt": "2023-09-21T09:59:35.403Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        2099,
+                        1288
+                    ],
+                    [
+                        2139,
+                        1328
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

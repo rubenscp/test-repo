@@ -1,0 +1,54 @@
+{
+    "classes": [
+        {
+            "title": "Coal",
+            "shape": "any",
+            "color": "#BD10E0",
+            "geometry_config": {},
+            "id": 11846352,
+            "hotkey": "C"
+        },
+        {
+            "title": "Sclerotium",
+            "shape": "any",
+            "color": "#F5A623",
+            "geometry_config": {},
+            "id": 11680133,
+            "hotkey": "S"
+        },
+        {
+            "title": "White mold",
+            "shape": "any",
+            "color": "#0768CF",
+            "geometry_config": {},
+            "id": 11680132,
+            "hotkey": ""
+        },
+        {
+            "title": "Apothecium",
+            "shape": "any",
+            "color": "#F8E71C",
+            "geometry_config": {},
+            "id": 11677765,
+            "hotkey": "A"
+        },
+        {
+            "title": "Petal",
+            "shape": "any",
+            "color": "#7ED321",
+            "geometry_config": {},
+            "id": 11680655,
+            "hotkey": "P"
+        },
+        {
+            "title": "Mushroom",
+            "shape": "any",
+            "color": "#BA3A26",
+            "geometry_config": {},
+            "id": 11680656,
+            "hotkey": "M"
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

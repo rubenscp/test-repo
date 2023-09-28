@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4000,
+        "width": 1800
+    },
+    "objects": [
+        {
+            "id": 1418538113,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T20:45:58.775Z",
+            "updatedAt": "2023-09-21T20:46:25.312Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1352,
+                        2367
+                    ],
+                    [
+                        1384,
+                        2401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418538130,
+            "classId": 11846352,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T20:46:24.833Z",
+            "updatedAt": "2023-09-21T20:46:24.833Z",
+            "tags": [],
+            "classTitle": "Coal",
+            "points": {
+                "exterior": [
+                    [
+                        826,
+                        2535
+                    ],
+                    [
+                        856,
+                        2618
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

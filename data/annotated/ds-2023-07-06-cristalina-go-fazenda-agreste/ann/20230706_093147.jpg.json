@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3000,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1418300732,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:54:27.820Z",
+            "updatedAt": "2023-09-21T09:54:46.291Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1628,
+                        1680
+                    ],
+                    [
+                        1657,
+                        1708
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418300736,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:54:31.389Z",
+            "updatedAt": "2023-09-21T09:54:46.291Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1643,
+                        1708
+                    ],
+                    [
+                        1671,
+                        1734
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418300758,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:54:45.971Z",
+            "updatedAt": "2023-09-21T09:54:45.971Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        3021,
+                        1678
+                    ],
+                    [
+                        3096,
+                        1748
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

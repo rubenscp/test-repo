@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4000,
+        "width": 1800
+    },
+    "objects": [
+        {
+            "id": 1418443314,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T15:57:42.326Z",
+            "updatedAt": "2023-09-22T14:55:27.876Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1185,
+                        630
+                    ],
+                    [
+                        1212,
+                        660
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418820929,
+            "classId": 11680133,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-22T14:47:19.434Z",
+            "updatedAt": "2023-09-22T14:55:27.876Z",
+            "tags": [],
+            "classTitle": "Sclerotium",
+            "points": {
+                "exterior": [
+                    [
+                        1482,
+                        792
+                    ],
+                    [
+                        1514,
+                        821
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418821055,
+            "classId": 11680656,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-22T14:53:37.461Z",
+            "updatedAt": "2023-09-22T14:55:27.876Z",
+            "tags": [],
+            "classTitle": "Mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        1257,
+                        2197
+                    ],
+                    [
+                        1284,
+                        2220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418821101,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-22T14:55:27.520Z",
+            "updatedAt": "2023-09-22T14:55:33.646Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1455,
+                        2868
+                    ],
+                    [
+                        1470,
+                        2882
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

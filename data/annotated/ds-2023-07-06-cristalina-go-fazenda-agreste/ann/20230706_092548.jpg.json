@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4000,
+        "width": 3000
+    },
+    "objects": [
+        {
+            "id": 1418299268,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:33:34.079Z",
+            "updatedAt": "2023-09-21T09:34:32.526Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        2243,
+                        221
+                    ],
+                    [
+                        2314,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418299327,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:34:20.631Z",
+            "updatedAt": "2023-09-21T09:34:32.526Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1323,
+                        2172
+                    ],
+                    [
+                        1372,
+                        2222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418299334,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-21T09:34:32.062Z",
+            "updatedAt": "2023-09-21T09:34:32.062Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1359,
+                        2176
+                    ],
+                    [
+                        1433,
+                        2243
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

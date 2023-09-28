@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3000,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1418087504,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-20T18:16:27.614Z",
+            "updatedAt": "2023-09-20T18:16:56.274Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        1922,
+                        1737
+                    ],
+                    [
+                        1960,
+                        1779
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418087508,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-20T18:16:46.148Z",
+            "updatedAt": "2023-09-20T18:16:56.274Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1652,
+                        1791
+                    ],
+                    [
+                        1689,
+                        1831
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418087509,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "rubens.castro",
+            "createdAt": "2023-09-20T18:16:55.952Z",
+            "updatedAt": "2023-09-20T18:17:08.101Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1682,
+                        1824
+                    ],
+                    [
+                        1712,
+                        1854
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

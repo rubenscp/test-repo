@@ -1,0 +1,370 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1800,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 1376073465,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-07-17T14:48:23.978Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        1616,
+                        1452
+                    ],
+                    [
+                        1653,
+                        1483
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1376073472,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-07-17T14:48:39.833Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        87
+                    ],
+                    [
+                        191,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1376073477,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-07-17T14:48:48.811Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        2954,
+                        42
+                    ],
+                    [
+                        2993,
+                        80
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1376073480,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-07-17T14:48:57.752Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        3039,
+                        315
+                    ],
+                    [
+                        3107,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1376073488,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-07-17T14:49:08.648Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        673,
+                        750
+                    ],
+                    [
+                        753,
+                        818
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1376073500,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-07-17T14:49:27.158Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        1312,
+                        1111
+                    ],
+                    [
+                        1357,
+                        1168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1376073506,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-07-17T14:49:38.030Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        1465,
+                        608
+                    ],
+                    [
+                        1535,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1376073518,
+            "classId": 11680655,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-07-17T14:49:56.815Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Petal",
+            "points": {
+                "exterior": [
+                    [
+                        3321,
+                        344
+                    ],
+                    [
+                        3371,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1376074556,
+            "classId": 11677765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-07-17T14:51:28.176Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Apothecium",
+            "points": {
+                "exterior": [
+                    [
+                        2963,
+                        134
+                    ],
+                    [
+                        3004,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407346944,
+            "classId": 11680656,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:19:23.232Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        501,
+                        1135
+                    ],
+                    [
+                        579,
+                        1204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347077,
+            "classId": 11680133,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:24:45.342Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Sclerotium",
+            "points": {
+                "exterior": [
+                    [
+                        3601,
+                        1477
+                    ],
+                    [
+                        3658,
+                        1530
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347097,
+            "classId": 11846352,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:25:44.669Z",
+            "updatedAt": "2023-09-18T00:36:46.131Z",
+            "tags": [],
+            "classTitle": "Coal",
+            "points": {
+                "exterior": [
+                    [
+                        3138,
+                        1396
+                    ],
+                    [
+                        3264,
+                        1471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347187,
+            "classId": 11846352,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:31:07.642Z",
+            "updatedAt": "2023-09-18T00:36:41.615Z",
+            "tags": [],
+            "classTitle": "Coal",
+            "points": {
+                "exterior": [
+                    [
+                        2476,
+                        965
+                    ],
+                    [
+                        2548,
+                        1010
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347229,
+            "classId": 11680133,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:32:33.294Z",
+            "updatedAt": "2023-09-08T13:32:52.798Z",
+            "tags": [],
+            "classTitle": "Sclerotium",
+            "points": {
+                "exterior": [
+                    [
+                        3257,
+                        681
+                    ],
+                    [
+                        3300,
+                        721
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1407347234,
+            "classId": 11846352,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "murillo.lobo",
+            "createdAt": "2023-09-08T13:32:52.489Z",
+            "updatedAt": "2023-09-18T00:36:35.243Z",
+            "tags": [],
+            "classTitle": "Coal",
+            "points": {
+                "exterior": [
+                    [
+                        3472,
+                        841
+                    ],
+                    [
+                        3617,
+                        954
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
